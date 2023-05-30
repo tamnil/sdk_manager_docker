@@ -18,7 +18,7 @@ NVIDIA released official Docker image(<https://docs.nvidia.com/sdk-manager/docke
 
 Please download the package of NVIDIA SDK Manager from <https://developer.nvidia.com/nvidia-sdk-manager>.  
 And, please put the package of NVIDIA SDK Manager in the same directory as the Dockerfile.  
-This time, I used `sdkmanager_1.8.0-10363_amd64.deb`.
+This time, I used `sdkmanager_1.9.2-10899_amd64.deb`.
 
 Download:
 https://developer.nvidia.com/sdkmanager_deb
